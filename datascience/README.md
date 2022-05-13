@@ -5,20 +5,20 @@ This coding challenge is an opportunity for you to demonstrate your skills and k
 
 ## The Coding Challenge
 
-This repository contains a jupyter notebook with the coding challenge consisting of 2 parts. We also provied data in `coding_challenge.csv` which you can use in case you get stuck in Part 1. 
+This repository contains a jupyter notebook with the coding challenge consisting of 2 parts. We also provide data in `coding_challenge.csv` which you can use in case you get stuck in Part 1. 
 Create a new git repository for this project and organize your code within that repo. You can provide your solution and thoughtprocess directly within the notebook.
 Once you are finished commit and push your code and email the link to your 7Learnings contact.
 
-We adivse you to use a virtual environment and install the dependencies there:
+We advise you to use a virtual environment and install the dependencies there:
  ```
  virtualenv venv
  source venv/bin/activate
  pip install -r requirements.txt
  ```
  
-In order to succesfully do this coding challenge you will need to  have a [gmail account](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fmyaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dcreate-account-button&flowName=GlifWebSignIn&flowEntry=SignUp) to enter the [google cloude console](https://console.cloud.google.com) where you can create your first project. Google might keep trying to get you to sign up for their free trial but you can safely ignore that, our challenge works with the [Sandbox version](https://cloud.google.com/bigquery/docs/sandbox). 
+In order to successfully do this coding challenge you will need to have a [gmail account](https://accounts.google.com/signup/v2/webcreateaccount?continue=https%3A%2F%2Fmyaccount.google.com%3Futm_source%3Daccount-marketing-page%26utm_medium%3Dcreate-account-button&flowName=GlifWebSignIn&flowEntry=SignUp) to enter the [google cloude console](https://console.cloud.google.com) where you can create your first project. Google might keep trying to get you to sign up for their free trial, but you can safely ignore that, our challenge works with the [Sandbox version](https://cloud.google.com/bigquery/docs/sandbox). 
 
-Once you finisehd setting up your project you you will need to run 
+Once you finished setting up your project you will need to run 
 
 
 ```
