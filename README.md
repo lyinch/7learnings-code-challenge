@@ -1,3 +1,4 @@
+Please find the solution in the `datascience/` directory.
 # Environment setup
 
 It is best to run the notebook in a virtual environment.
