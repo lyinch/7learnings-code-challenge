@@ -1,3 +1,6 @@
+Please fine the _solution_ in the `datascience/` directory.
+
+
 # 7Learnings Data Scientist Code Challenges
 
 Hello potential 7Learnings colleague!
